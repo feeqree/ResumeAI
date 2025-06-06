@@ -1,5 +1,6 @@
-# Firebase Studio
+# ResumeFlow AI
 
-This is a NextJS starter in Firebase Studio.
+This project is for HackAttack, by Team BUNNYSH.
 
-To get started, take a look at src/app/page.tsx.
+For prototype, you may use this link, 
+https://resume-ai-puce.vercel.app/
